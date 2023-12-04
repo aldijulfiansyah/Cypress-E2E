@@ -1,0 +1,17 @@
+{
+  "name": "first-e2e-project",
+  "version": "1.0.0",
+  "description": "cypress e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+],
+  "author": "aldi j",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
